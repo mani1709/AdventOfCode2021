@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
     ifstream inFile;
-    inFile.open("C:\\Users\\User\\OneDrive\\Desktop\\AdventOfCode\\Day1\\input.txt");
+    inFile.open("input.txt");
 
     int currNumber = 0;
     int nextNumber = 0;

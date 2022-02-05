@@ -75,7 +75,7 @@ public:
 
 int main() {
     ifstream inFile;
-    inFile.open("C:\\Users\\User\\OneDrive\\Desktop\\AdventOfCode\\Day4\\input.txt");
+    inFile.open("input.txt");
 
     vector<string> textLines;
 

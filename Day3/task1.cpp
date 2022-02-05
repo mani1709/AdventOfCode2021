@@ -8,7 +8,7 @@ using namespace std;
 
 int main() {
     ifstream inFile;
-    inFile.open("C:\\Users\\User\\OneDrive\\Desktop\\AdventOfCode\\Day3\\input.txt");
+    inFile.open("input.txt");
 
     vector<string> textLines;
 

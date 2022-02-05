@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
     ifstream inFile;
-    inFile.open("C:\\Users\\User\\OneDrive\\Desktop\\AdventOfCode\\Day2\\input.txt");
+    inFile.open("input.txt");
 
     int horizontalPos = 0;
     int verticalPos = 0;
